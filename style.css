@@ -1,0 +1,13 @@
+nav{
+    min-height: 10vh;
+}
+.logo{
+    width: 35px;
+}
+main{
+    min-height: 70vh;
+    background: whitesmoke;
+}
+footer .container-fluid{
+    min-height: 20vh;
+}
